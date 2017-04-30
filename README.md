@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-I a teacher trying out this code thing.
+I am a teacher trying out this code thing.
